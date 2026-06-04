@@ -11,7 +11,7 @@ export default function DashboardPage() {
 
   const choices = [
     {
-      href: "/reading",
+      href: "/dashboard/reading",
       icon: BookOpen,
       title: "Mystic Reading",
       subtitle: "Tarot · Runes · Crystal · Astral",
@@ -23,7 +23,7 @@ export default function DashboardPage() {
       accent: "text-purple-300",
     },
     {
-      href: "/fortune",
+      href: "/dashboard/fortune",
       icon: Sparkles,
       title: "Fortune Oracle",
       subtitle: "Destiny · Love · Wealth · Blessings",
