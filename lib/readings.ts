@@ -457,6 +457,441 @@ export const readings: Reading[] = [
       "In many Indigenous traditions, the medicine bundle is a collection of sacred objects, each carrying a specific spiritual significance and power. Together, they form a portable altar — a concentrated gathering of relationship, memory, and intention. The spirit reading asks you to consider your own medicine bundle: not a physical object, but the collection of qualities, experiences, relationships, and understandings that constitute your spiritual resource. You carry more than you typically reach for. In moments of difficulty, you default to the most familiar tool in the bundle — usually the one acquired earliest, the most worn from use. The reading invites you to reach deeper. There are medicines in your bundle that have never been opened.",
     colors: ["#78350f", "#d97706", "#064e3b"],
   },
+  {
+    id: "r49",
+    title: "The Magician's Table",
+    category: "tarot",
+    shortText: "All four tools lie before you, waiting to be used...",
+    fullReading:
+      "The Magician stands at his table with the wand, the cup, the sword, and the pentacle spread before him. He does not need to acquire more tools. He needs to recognise what he already holds. This card arrives to tell you something you may have been resisting: you are not waiting for the right moment, the right circumstances, or the right resources. They are already in front of you. The Magician's gesture — one hand raised to the sky, one pointing to the earth — is not a pose. It is a circuit. You are the conductor between potential and reality. The only question the card asks is whether you are willing to make the connection.",
+    colors: ["#7c3aed", "#fbbf24", "#dc2626"],
+  },
+  {
+    id: "r50",
+    title: "The Hermit's Lantern",
+    category: "tarot",
+    shortText:
+      "Solitude is not loneliness — it is a different kind of company...",
+    fullReading:
+      "The Hermit does not walk away from the world in defeat. He walks away in order to see it clearly. The lantern he carries holds a six-pointed star — not enough light to illuminate the whole mountain, but exactly enough for the next step. This card is about the quality of your solitude: are you alone in a way that is feeding something, or in a way that is merely avoiding something? The Hermit's gift is the discovery that the answers you have been seeking from others live, in their most accurate form, inside you. The mountain is cold. The path is narrow. The lantern is precisely sufficient. Step forward.",
+    colors: ["#374151", "#9ca3af", "#fbbf24"],
+  },
+  {
+    id: "r51",
+    title: "The Wheel Turns",
+    category: "tarot",
+    shortText: "Fortune's great mechanism completes another revolution...",
+    fullReading:
+      "The Wheel of Fortune does not ask whether you deserve to rise or fall — it simply turns. The sphinx at the top, the serpent descending, the jackal ascending: the wheel does not play favourites. What this card offers is not comfort about what is happening but clarity about the nature of all happening. Circumstances change. The conditions that feel permanent are the most temporary of all. If you are in a low place on the wheel, take genuine comfort: the mechanism is still moving. If you are in a high place, do not mistake the view from the top for the only view. The most useful response to the Wheel is to learn to remain yourself regardless of where on it you currently stand.",
+    colors: ["#b45309", "#fbbf24", "#7c3aed"],
+  },
+  {
+    id: "r52",
+    title: "Justice Weighs",
+    category: "tarot",
+    shortText: "The scales do not lie, and neither should you...",
+    fullReading:
+      "Justice is seated, robed, and entirely still. The sword in one hand is not a threat — it is precision. The scales in the other are not indifferent — they are honest. This card does not arrive to punish. It arrives to align. There is a situation in your life in which you know, at a level below justification and narrative, what the honest assessment is. You may have been avoiding that assessment because the truth requires something of you — an acknowledgment, a change, an end, a beginning. Justice does not require that you suffer. It requires only that you be accurate. Stop arguing with what you know. The scales are already settled.",
+    colors: ["#374151", "#fbbf24", "#1e3a8a"],
+  },
+  {
+    id: "r53",
+    title: "The Hanged One Waits",
+    category: "tarot",
+    shortText: "Suspension is its own form of motion...",
+    fullReading:
+      "The Hanged One is not suffering. Look at the face: serene, illuminated, entirely at peace with its inversion. This figure has chosen to stop — to hang between certainty and action, to see the world from a perspective no upright person can access. The card arrives when the most powerful move available to you is to make no move at all. Not from fear, not from paralysis — but from the deliberate decision to let circumstances reveal themselves before you act. The halo around the Hanged One's head is not a consolation. It is earned. The one who can bear not-knowing long enough to understand deeply is the one who acts most effectively when the time comes.",
+    colors: ["#1e3a8a", "#a78bfa", "#fbbf24"],
+  },
+  {
+    id: "r54",
+    title: "Death Walks Gently",
+    category: "tarot",
+    shortText: "The pale rider clears the path for what comes next...",
+    fullReading:
+      "The Death card almost never speaks of physical death. It speaks of the thing in your life that has finished — that is, in fact, already over, even if you have not yet released it. The white horse moves unhurriedly. The figures in its path are not random: the child, the bishop, the king — none are immune. The flag it carries is black with a white rose: death and new life, inseparable. What the card is asking is not whether this ending is coming, but whether you will allow it to complete itself. The field on the other side of the river, visible in the card's distant light, is the life that becomes possible after you stop maintaining what no longer lives.",
+    colors: ["#0f172a", "#e2e8f0", "#b45309"],
+  },
+  {
+    id: "r55",
+    title: "Temperance Pours",
+    category: "tarot",
+    shortText: "Between the extremes, the right mixture becomes art...",
+    fullReading:
+      "Temperance is one of the most underrated cards in the Major Arcana. The angel pours water between two cups — one silver, one gold — and the liquid flows upward, against gravity, because the card operates in the register of spiritual law rather than physical law. What Temperance brings you is not moderation in the sense of reduction. It brings you the precise calibration of opposing forces into something new. You have been treating elements of your life as either/or choices when they are actually ingredients. The angel is not making a compromise. The angel is making an alchemical mixture. The path between the two pillars in the background leads somewhere worth going.",
+    colors: ["#059669", "#60a5fa", "#fbbf24"],
+  },
+  {
+    id: "r56",
+    title: "The Devil's Chain",
+    category: "tarot",
+    shortText: "Look closely — the chains are loose enough to lift off...",
+    fullReading:
+      "The Devil card depicts two figures chained to the pillar on which the devil perches. Look at the chains around their necks: they are loose. The figures could remove them at any moment. They have not because they have forgotten they are wearing them, or because the chains have come to feel like identity. The Devil in this reading is not an external force. It is the belief system, the habit, the story you tell yourself that has calcified into something that feels like fact. The card does not shame you for being chained. It points out, with great clarity, that the lock is on the outside, the key is in your hand, and the only reason you are still standing there is because some part of you has not yet decided to leave.",
+    colors: ["#7f1d1d", "#dc2626", "#0f172a"],
+  },
+  {
+    id: "r57",
+    title: "The Sun Rises Fully",
+    category: "tarot",
+    shortText: "Nothing hides in this light, and nothing needs to...",
+    fullReading:
+      "The Sun card is the simplest and most joyful card in the Major Arcana, and it is also the most honest. The child on the white horse is naked — not vulnerable, but without pretense. The sunflowers behind the wall turn toward the light without strategy or self-consciousness. The sun itself shines with a face that is both powerful and playful. This card arrives to tell you that a period of clarity is available to you — not the complicated clarity of hard-won wisdom, but the straightforward, uncomplicated clarity of a moment that simply is what it is. Something in your life wants to be simple. The Sun card's invitation is to let it be.",
+    colors: ["#fbbf24", "#f59e0b", "#86efac"],
+  },
+  {
+    id: "r58",
+    title: "The Lovers' Choice",
+    category: "tarot",
+    shortText: "Above the garden, the angel witnesses what cannot be undone...",
+    fullReading:
+      "The Lovers card is not primarily about romantic love. It is about the moment of choosing — the irreversible commitment to a path that defines the kind of person you are becoming. The angel Raphael above the couple does not bless one choice over another. It bears witness to the moment of choosing itself. The card arrives when you are standing at a genuine values decision: not between right and wrong, but between two legitimate visions of your life that cannot both be fully realised. The card does not tell you which to choose. It tells you that the choosing itself is significant, that it is yours to make, and that making it clearly and consciously is better than drifting into one path while nominally remaining open to both.",
+    colors: ["#dc2626", "#fbbf24", "#8b3ff0"],
+  },
+
+  // ── RUNES (9 new) ────────────────────────────────────────────────────────────
+
+  {
+    id: "r59",
+    title: "Gebo, the Gift Exchanged",
+    category: "runes",
+    shortText: "Every true gift creates a bond that must be honoured...",
+    fullReading:
+      "Gebo is shaped like an X — two lines crossing, the structure of exchange. In the Norse understanding, a gift was never simply a transfer of goods. It was the creation of a relationship, a bond of obligation and love between giver and receiver. The rune falls in your reading to ask about the exchanges that currently define your life. What have you given without acknowledgment of what you gave? What have you received without acknowledging what it cost the giver? Gebo is not a rune of debt or guilt. It is a rune of honest reckoning: the recognition that we are always in relationship, always in exchange, and that naming those relationships clearly is a form of respect.",
+    colors: ["#059669", "#fbbf24", "#8b3ff0"],
+  },
+  {
+    id: "r60",
+    title: "Wunjo, the Banner of Joy",
+    category: "runes",
+    shortText: "The rune of belonging rises like a flag over the clan...",
+    fullReading:
+      "Wunjo is a rune of joy — not the sharp, surprising joy of a windfall, but the deep, sustained joy of a person who has found where they belong. It is the joy of harmony within a group, of a life well-ordered toward something that matters, of the knowledge that you are in the right place doing the right thing. This rune falls to ask a gentle but serious question: where do you feel that belonging right now? If the answer comes quickly and clearly, the rune is a confirmation. If you hesitate, if the question opens a space of longing — the rune is pointing to the thing your life most needs. Joy of the Wunjo variety is not found. It is built, slowly and deliberately, out of the right materials.",
+    colors: ["#059669", "#fbbf24", "#f97316"],
+  },
+  {
+    id: "r61",
+    title: "Jera, the Year's Harvest",
+    category: "runes",
+    shortText: "The cycle completes — what was sown is ready...",
+    fullReading:
+      "Jera is the rune of the year, of the agricultural cycle, of the understanding that there is a right time for every stage and that rushing any of them diminishes the whole. It depicts two opposing J shapes, interlocked — summer and winter, planting and harvest, action and rest. The rune arrives to tell you that something you have been working toward is approaching its harvest point. This does not mean the work is over. Harvest has its own labour. But the shape of the reward is becoming visible, and the rune asks you to recognise it for what it is: the legitimate return on genuine effort, the natural completion of a genuine cycle. Receive it without deflection.",
+    colors: ["#d97706", "#fbbf24", "#065f46"],
+  },
+  {
+    id: "r62",
+    title: "Eihwaz, the Yew's Persistence",
+    category: "runes",
+    shortText: "Death and life share the same root in the oldest tree...",
+    fullReading:
+      "Eihwaz is the rune of the yew tree, the most ancient of European trees, which can live for thousands of years and which is poisonous and sacred in equal measure. It stands at the axis of the runic system — neither entirely of the living world nor of the dead, but the axis through which both are connected. When this rune falls, it speaks of endurance of the most fundamental kind: the capacity to pass through transformation without losing the essential self. You are in the middle of something significant, and the yew's medicine is not speed or strategy. It is the deep, slow endurance of the tree whose roots drink from both worlds. You will come through. What comes through will be genuinely you.",
+    colors: ["#064e3b", "#374151", "#d97706"],
+  },
+  {
+    id: "r63",
+    title: "Perthro, the Dice Cup",
+    category: "runes",
+    shortText: "Fate and chance are not enemies — they are collaborators...",
+    fullReading:
+      "Perthro is the most mysterious rune in the Elder Futhark — its meaning debated, its shape the image of an overturned cup or the mouth of a well. It is associated with fate, with the hidden, with the mysteries that the Norns weave and that no human fully controls. When it falls, it is not an invitation to helplessness. It is an invitation to the specific kind of engagement with uncertainty that the Norse called the wyrd — the personal fate that is partly written and partly made. You are in a situation where control is limited. The rune asks: can you engage fully, with genuine skill and effort, while releasing the outcome? That combination — total engagement, released attachment — is the most powerful move available.",
+    colors: ["#7c3aed", "#0f172a", "#d97706"],
+  },
+  {
+    id: "r64",
+    title: "Laguz, the Lake's Depth",
+    category: "runes",
+    shortText:
+      "The water rune asks you to flow where you have been standing still...",
+    fullReading:
+      "Laguz is water — not the violent water of storms, but the deep, patient water of a lake that knows exactly how low it sits and finds the path around every obstacle with perfect, unhurried ease. The rune is associated with intuition, with the unconscious, with the knowledge that does not arrive in words but in feelings, in dreams, in the body's quiet responses before the mind has caught up. It falls to ask you about your own water: where have you been resisting the flow, trying to hold yourself in a shape that circumstances keep eroding? The lake does not maintain its outline by force. It takes the shape of the land. And in doing so, it goes everywhere.",
+    colors: ["#1e3a8a", "#60a5fa", "#e2e8f0"],
+  },
+  {
+    id: "r65",
+    title: "Mannaz, the Human Rune",
+    category: "runes",
+    shortText: "You are not alone in this — that is not weakness...",
+    fullReading:
+      "Mannaz is the rune of humanity — of the self in relation to others, of the understanding that a person is not a closed system but a node in a web of relationship and mutual influence. It is the rune that reminds the runemaster that wisdom is not always solitary: sometimes the most important act is to ask, to listen, to allow another person's perspective to genuinely alter your own. The rune falls in your reading when you have been trying to solve something alone that would yield more quickly to collaboration. Not because you lack the capacity — you do not — but because the thing itself has a social dimension that solitary effort cannot address. Who in your life sees this situation differently? Ask them.",
+    colors: ["#1e3a8a", "#7c3aed", "#d97706"],
+  },
+  {
+    id: "r66",
+    title: "Dagaz, the Day's Breaking",
+    category: "runes",
+    shortText: "The final threshold is also the first light...",
+    fullReading:
+      "Dagaz is the rune of the dawn, of the paradox that stands at the boundary between darkness and light — the moment that is neither one nor the other, but the pure transition between them. The rune is shaped like an hourglass on its side, two triangles pointing toward each other and touching at a single point. That point is now. You are standing at a genuine threshold — a before and after that you will be able to identify for the rest of your life. The rune does not tell you what lies on the other side of the dawn. It tells you that the breaking of it is the right time to move. The darkness is ending. The light is not a guarantee. But it is real, and it is arriving.",
+    colors: ["#fbbf24", "#1e3a8a", "#f3e8ff"],
+  },
+  {
+    id: "r67",
+    title: "Ingwaz, the Seed's Promise",
+    category: "runes",
+    shortText: "What is enclosed is not trapped — it is becoming...",
+    fullReading:
+      "Ingwaz is the rune of the fertility god Ing — of the enclosed, protected seed that holds enormous potential in dormancy. It is shaped like a diamond, a closed form, complete in itself. When it falls, it speaks of a creative or generative power that has been building internally, not yet visible to the outside world, not yet ready to emerge. The medicine of this rune is patience with your own development. Whatever you are working on — a project, a skill, a healing, a becoming — is not stalled. It is germinating. The seed does not crack open before it is ready, and the force that eventually splits it is not violence but readiness. Trust the timing of what is forming in you.",
+    colors: ["#065f46", "#fbbf24", "#7c3aed"],
+  },
+
+  // ── CRYSTAL (9 new) ──────────────────────────────────────────────────────────
+
+  {
+    id: "r68",
+    title: "Carnelian Burns Steady",
+    category: "crystal",
+    shortText: "The fire-stone warms what has gone cold with doubt...",
+    fullReading:
+      "Carnelian carries the colour of embers — the orange-red of fire that has found its sustainable form, no longer the wild blaze but the steady heat that cooks, that warms, that sustains. It is the stone of courage without recklessness, of confidence that is grounded in genuine self-knowledge rather than bravado. The crystal appears in your reading because your relationship with your own competence has recently become uncertain. Not because your competence has diminished — it has not — but because a particular challenge has highlighted the edge of your experience, and you have been interpreting that edge as evidence of insufficiency. Carnelian holds a different interpretation: the edge is exactly where growth happens. The discomfort is the signal, not the verdict.",
+    colors: ["#dc2626", "#f97316", "#fbbf24"],
+  },
+  {
+    id: "r69",
+    title: "Fluorite Clears the Static",
+    category: "crystal",
+    shortText:
+      "Through the purple-green haze, a single thought crystallises...",
+    fullReading:
+      "Fluorite grows in cubic structures — the geometry of organisation, of order imposed on chaos at the molecular level. The crystal's signature bands of purple, green, and clear layers are the visual record of different conditions during its formation, each phase preserved in the stone. It is the crystal of mental clarity: of the capacity to hold multiple complex considerations and arrange them into something coherent. The reading it offers is directed at the specific kind of overwhelm that comes from too many variables held without structure. Fluorite does not simplify your situation. It asks you to organise it. Take one question and complete your thinking about it before moving to the next. The clarity you need is available. It requires method.",
+    colors: ["#7c3aed", "#059669", "#e2e8f0"],
+  },
+  {
+    id: "r70",
+    title: "Tiger's Eye Sees Through",
+    category: "crystal",
+    shortText: "The banded stone holds both the sun and the shadow...",
+    fullReading:
+      "Tiger's eye forms through the replacement of asbestos fibres by quartz — a literal transformation of one mineral into another, preserving the structure while changing the substance entirely. The golden-brown bands that give it its characteristic shimmer are the record of that transformation. This stone appears in your reading as a witness to your own capacity to transform under pressure without losing structural integrity. The tiger does not change its essential nature when it adapts to different terrain. Neither do you. The crystal also carries the tiger's quality of sight: the ability to see clearly in conditions that obscure things from others. Trust what you are seeing right now, even if what you see is uncomfortable.",
+    colors: ["#d97706", "#78350f", "#fbbf24"],
+  },
+  {
+    id: "r71",
+    title: "Aquamarine Speaks from Depth",
+    category: "crystal",
+    shortText: "The sea-stone carries what the ocean knows...",
+    fullReading:
+      "Aquamarine is the colour of shallow tropical water — that particular blue-green that is neither fully one thing nor the other, that suggests both clarity and depth simultaneously. It was carried by sailors as a talisman, associated with safe passage across uncertain waters. The crystal appears in your reading at a moment of transition, specifically a transition that involves moving from one state of being to another across an uncertain middle space. The sea between known shores. Aquamarine does not promise still waters. It promises something more useful: that the qualities of calm, of clear perception, of trust in your own navigation are present in you and can be activated deliberately. The middle passage is real. You are equipped for it.",
+    colors: ["#0891b2", "#60a5fa", "#e2e8f0"],
+  },
+  {
+    id: "r72",
+    title: "Garnet Holds the Deep Red",
+    category: "crystal",
+    shortText: "Passion that has deepened past heat becomes devotion...",
+    fullReading:
+      "Garnet is one of the oldest used gemstones in human history, found in jewellery across millennia and cultures. Its deep red is not the red of fire but the red of blood — the colour of life itself, of what runs deepest and cannot be faked. The crystal appears in your reading to speak of commitment: the particular kind of commitment that is no longer fuelled by excitement but by something much more durable. You have arrived, with something or someone in your life, at the place past the initial energy. What you feel now is quieter but truer. Garnet says: do not mistake the depth of this for a diminishment. The fire has not gone out. It has gone in.",
+    colors: ["#7f1d1d", "#dc2626", "#d97706"],
+  },
+  {
+    id: "r73",
+    title: "Pyrite Holds Its Ground",
+    category: "crystal",
+    shortText: "Fool's gold is not foolish — it simply knows what it is...",
+    fullReading:
+      "Pyrite — iron sulphide, fool's gold — was long dismissed because it was not what people hoped it was. And yet it is remarkable in its own right: cubic crystals of extraordinary geometric precision, surfaces that mirror with a metallic lustre, a hardness that outlasts the confusion of those who once thought it something else. The crystal appears in your reading when you have been measuring yourself against a standard that was never yours, finding yourself lacking in the comparison, and failing to recognise what you actually are. You are not a lesser version of something else. You are precisely what you are, and there are qualities in you — reliability, structural integrity, a certain brilliant forthrightness — that are genuinely valuable on their own terms.",
+    colors: ["#d97706", "#fbbf24", "#374151"],
+  },
+  {
+    id: "r74",
+    title: "Sodalite Deepens the Blue",
+    category: "crystal",
+    shortText: "The stone of truth holds the blue hour of understanding...",
+    fullReading:
+      "Sodalite is a deep, unflashy blue — the colour of the sky at the hour before full dark, when the light is still present but has lost its dazzle. It is the stone associated with truth-telling, with the honest assessment of situations that benefit from calm rather than heat. Unlike lapis lazuli, which speaks of the truth you carry outward, sodalite speaks of the truth you carry inward: the honest self-understanding that is the precondition of all genuine change. The crystal appears in your reading to offer you a quiet hour of actual honesty about a situation you have been approaching with some degree of management. Not self-criticism. Not shame. Simply accurate seeing — the blue-hour clarity that comes when the dazzle fades and the real forms become visible.",
+    colors: ["#1e3a8a", "#3b82f6", "#e2e8f0"],
+  },
+  {
+    id: "r75",
+    title: "Rhodonite Binds the Wound",
+    category: "crystal",
+    shortText: "The pink and black stone heals what it cannot erase...",
+    fullReading:
+      "Rhodonite is distinctive for its combination of pink and black — manganese silicate shot through with black manganese oxide. The pink of love and compassion; the black of the wound that has been integrated rather than concealed. It is called the stone of compassion precisely because its appearance is honest about the coexistence of tenderness and damage. The crystal appears in your reading to work with a wound that has not fully healed — not because it was neglected, but because some wounds take longer than expected, and the expectation was unrealistic. Rhodonite does not promise the wound will disappear. It offers the more useful promise: that the wound and the tenderness can exist together, that one does not cancel the other, and that a heart containing both is not diminished. It is seasoned.",
+    colors: ["#db2777", "#0f172a", "#fda4af"],
+  },
+  {
+    id: "r76",
+    title: "Hematite Roots Downward",
+    category: "crystal",
+    shortText: "Iron in the earth pulls the scattered self back together...",
+    fullReading:
+      "Hematite is iron oxide — the same compound that gives blood its colour and rusty metal its patina. In crystal form it is a dense, grounded, metallic grey-silver, heavy in the hand and cool against the skin. It is among the most grounding of stones: when the energy of a situation has become diffuse, scattered, living too much in the head and not enough in the body, hematite pulls it back down. The crystal appears in your reading during a period of genuine overextension — too many concerns held simultaneously, the centre of gravity rising toward abstraction. The remedy hematite offers is physical: feet on the ground, breath in the body, the specific gravity of your actual, present life. Not everything can be solved from the altitude of thinking. Come down.",
+    colors: ["#374151", "#6b7280", "#e2e8f0"],
+  },
+
+  // ── ASTRAL (9 new) ───────────────────────────────────────────────────────────
+
+  {
+    id: "r77",
+    title: "Chiron at the Wound",
+    category: "astral",
+    shortText: "The wounded healer places a hand on the oldest ache...",
+    fullReading:
+      "Chiron is neither planet nor asteroid but something in between — a centaur body orbiting between Saturn and Uranus, bridging the known and the unknown in the solar system's architecture. In the chart it marks the wound that does not fully heal and becomes, through that very refusal, the source of your greatest capacity to understand and assist others. The celestial reading shows Chiron making itself known in your sky. This is not punishment. The wound Chiron marks is ancient and real, and it is also the place where you have accumulated an expertise in pain — in navigating it, surviving it, finding meaning in it — that constitutes a genuine gift. The centaur asks: what do you know about endurance that others in your life are currently needing to learn?",
+    colors: ["#7c3aed", "#dc2626", "#fbbf24"],
+  },
+  {
+    id: "r78",
+    title: "The Ascendant Rises",
+    category: "astral",
+    shortText:
+      "The face you show the world is also the door the world enters by...",
+    fullReading:
+      "The Ascendant — the degree of the zodiac rising on the eastern horizon at the moment of your birth — is the mask, the first impression, the style through which your essential self interfaces with the world. But it is more than a mask. Over time, the Ascendant is inhabited so completely that it becomes genuinely you, not a performance but a personality. The celestial reading focuses here because something in how you have been presenting yourself to your circumstances is ready to shift — not a falsehood to be abandoned but an earlier version of yourself that has been outgrown. The face you are developing is not less you. It is more you. The horizon is always moving. So is the self that rises to meet it.",
+    colors: ["#fbbf24", "#7c3aed", "#60a5fa"],
+  },
+  {
+    id: "r79",
+    title: "Pluto's Long Slow Burning",
+    category: "astral",
+    shortText:
+      "The outermost planet turns everything it touches to ash and diamond...",
+    fullReading:
+      "Pluto moves so slowly that a single transit through a house of the birth chart can span decades. Its action is not swift. It is thorough. Where Pluto moves, it dismantles what is false and composted into something new — the mythology of Persephone and the underworld captures it precisely. What Pluto takes underground does not simply disappear. It transforms. The celestial reading shows Pluto active in a sector of your life associated with identity or relationship — and you have been feeling the pressure of that transformation as a kind of grief for what is no longer there. That grief is appropriate and real. And beneath it, something is emerging that would not have been possible without the descent. Wait. What is coming up is genuinely new.",
+    colors: ["#0f172a", "#7c3aed", "#dc2626"],
+  },
+  {
+    id: "r80",
+    title: "Uranus Strikes Sideways",
+    category: "astral",
+    shortText: "The planet of revolution does not knock — it simply arrives...",
+    fullReading:
+      "Uranus moves in a way that confounds prediction: even experienced astrologers know that its transits bring the unexpected, the unprecedented, the reversal that could not have been seen from any prior vantage point. It is the planet of revolution, of genius, of the break with convention that turns out to have been necessary. The celestial reading shows Uranus active in your sky, and the message is not alarming. What it says is this: something that was fixed in your life — a plan, a relationship, an identity, a trajectory — has just become, or is about to become, unfixed. Not because you failed, but because Uranus is not concerned with your plans. It is concerned with your growth. The interruption is the gift. The question is how you meet it.",
+    colors: ["#60a5fa", "#e2e8f0", "#7c3aed"],
+  },
+  {
+    id: "r81",
+    title: "Neptune Dissolves the Shore",
+    category: "astral",
+    shortText: "The god of the deep sea unmakes the lines you drew...",
+    fullReading:
+      "Neptune is the planet of dissolution — of the slow, pervasive erosion of boundaries, of the blurring of self and other, of the transcendence that can be mystical inspiration or confusion depending on how you meet it. Its transits do not announce themselves clearly. They seep. Under a Neptune transit, certainties become porous, identity becomes unclear, and the things you thought were solid reveal themselves as having been more permeable than you knew. The celestial reading brings this not as a warning but as an orientation: do not try to draw the shore back while Neptune is active. This is a time for the inner life — for art, for spiritual practice, for the imagination — and a time to hold your external structures loosely while the tide is high.",
+    colors: ["#1e3a8a", "#6d28d9", "#60a5fa"],
+  },
+  {
+    id: "r82",
+    title: "The South Node Releases",
+    category: "astral",
+    shortText: "The past is fertile ground, not a home to stay in...",
+    fullReading:
+      "The South Node of the Moon is the complement to the North Node — the place of origin, the comfort zone, the deeply-grooved path that the soul can walk without effort because it has walked it so many times before. It is not a bad place. It is a familiar place. The celestial reading asks you to notice where in your life you are defaulting to the South Node's comfort: the pattern you return to when things get hard, the identity you revert to when challenged, the strategy that has worked before and is therefore reaching for it again even when the circumstances are genuinely new. The South Node is rich with competence. The invitation is to bring that competence forward into new territory, rather than retreating into the territory where it was first developed.",
+    colors: ["#78350f", "#d97706", "#1e3a8a"],
+  },
+  {
+    id: "r83",
+    title: "The Lunar Return",
+    category: "astral",
+    shortText: "Once a month, the moon comes home and asks what has changed...",
+    fullReading:
+      "Every month the moon returns to the exact degree it occupied at the moment of your birth — a lunar return, a monthly reset, a gentle celestial check-in. The reading draws on this cycle to mark a moment of assessment: where are you, a month on from where you were? Not in external circumstances — those are obvious — but in the subtler registers of emotional weather, of what matters most, of what you have been learning without quite noticing you were learning it. The lunar return is not a dramatic event. It is a conversation. The moon is asking: in the time since we last stood here together, what has shifted in you? Answer honestly. The moon is a good listener.",
+    colors: ["#e2e8f0", "#1e3a8a", "#8b3ff0"],
+  },
+  {
+    id: "r84",
+    title: "The Midheaven's Call",
+    category: "astral",
+    shortText: "The highest point in the sky at birth marks where you reach...",
+    fullReading:
+      "The Midheaven — the highest point in the sky at the moment of birth — is the public face, the vocational calling, the place in the chart where private development meets public expression. It is the mountaintop toward which the whole chart climbs. The celestial reading places attention here because a question about your work in the world — your contribution, your visibility, your sense of whether what you do reflects who you actually are — is becoming impossible to defer. The Midheaven does not ask you to be famous. It asks you to be aligned: for the work you bring to the world to be genuinely expressive of what you carry inside. That alignment is not a luxury. It is the specific calling of your particular life.",
+    colors: ["#1e40af", "#fbbf24", "#7c3aed"],
+  },
+  {
+    id: "r85",
+    title: "Lunar Eclipse, What Spills",
+    category: "astral",
+    shortText:
+      "The earth's shadow falls across the full moon and reveals what is full to overflowing...",
+    fullReading:
+      "A lunar eclipse occurs when the earth moves between the sun and the full moon, casting its shadow across the lunar surface and turning it blood-orange, copper, and rust. Lunar eclipses are associated with culminations, releases, and the surfacing of what has been accumulating below consciousness. Unlike solar eclipses — which are about revelation through absence — lunar eclipses are about what was always there, finally made visible through the intensity of the light that cannot quite reach it. The celestial reading shows a lunar eclipse active in your sky over an area associated with emotion and relationship. Something that has been building is ready to be released. You do not need to force this release. You simply need to allow it. The earth is already doing the work.",
+    colors: ["#991b1b", "#f97316", "#0f172a"],
+  },
+
+  // ── SPIRIT (9 new) ───────────────────────────────────────────────────────────
+
+  {
+    id: "r86",
+    title: "The Fire Keeper",
+    category: "spirit",
+    shortText:
+      "Someone in your lineage learned how to tend what must not go out...",
+    fullReading:
+      "In many Indigenous traditions, there is the role of the fire keeper — the one entrusted with maintaining the sacred fire that is the community's spiritual centre, through weather and difficulty and the long nights when no one is watching. It is not a glamorous role. It is an essential one. The spirit reading invites you to consider whether you have been carrying a fire keeper role in your life — for your family, your community, your creative practice — without fully acknowledging it as the significant act it is. The fire keeper does not make the fire visible or impressive. The fire keeper makes it possible. What in your life would go out without your quiet, consistent tending? Name it. Then tend it with the dignity the role deserves.",
+    colors: ["#dc2626", "#f97316", "#78350f"],
+  },
+  {
+    id: "r87",
+    title: "The Threshold Guardian",
+    category: "spirit",
+    shortText: "Not all guardians keep you out — some hold the door open...",
+    fullReading:
+      "In the stories of many cultures, the guardian at the threshold tests the traveller not to prevent passage but to ensure that what enters the sacred space is genuinely ready. The riddle, the challenge, the impossible-seeming task: these are not obstacles. They are initiations. The spirit reading places a guardian in your path — and invites you to understand it correctly. Whatever is currently blocking your forward movement — a person, a circumstance, an internal resistance — is not your enemy. It is the threshold test. The question it is asking is not whether you are good enough. The question is whether you are ready: whether you have done the preparation, whether you understand what you are entering, whether you are moving toward the threshold for the right reasons. Answer honestly. The door is waiting.",
+    colors: ["#374151", "#7c3aed", "#fbbf24"],
+  },
+  {
+    id: "r88",
+    title: "The River of Memory",
+    category: "spirit",
+    shortText: "The waters that carry us came from somewhere older than us...",
+    fullReading:
+      "In many shamanic and ancestral traditions, the river is the image of time and memory — the water that flows through you came from clouds that formed over mountains that were once seabeds, and will become rain again over land not yet named. You are not the river's source. You are one moment in its long flowing. The spirit reading brings this perspective to a situation in which you have been treating yourself as the origin point of a pattern that is, in fact, much older than you. This is not to diminish your agency. It is to relieve you of an impossible burden — the belief that you created something that was already underway when you arrived. You can change the course of the river. You did not dam it. Work from that truth.",
+    colors: ["#1e3a8a", "#065f46", "#e2e8f0"],
+  },
+  {
+    id: "r89",
+    title: "The Bone Woman Sings",
+    category: "spirit",
+    shortText: "From the desert of what is lost, life reassembles itself...",
+    fullReading:
+      "In the Clarissa Pinkola Estés tradition, La Llorona — the Bone Woman — wanders the desert collecting the bones of what has been lost and forgotten, and when she has assembled them, she sings them back to life. It is one of the most profound images of creative and spiritual resurrection in the mythological canon. The spirit reading brings the Bone Woman's medicine to a part of your life that has gone dry — a creative impulse, a relationship with something sacred, a sense of aliveness that once was present and is no longer. The bones are there. They have not been destroyed. They have been scattered, waiting for someone to care enough to gather them. The Bone Woman's work requires patience, solitude, and the willingness to be in the desert long enough to find what is scattered. Are you willing?",
+    colors: ["#78350f", "#d97706", "#e2e8f0"],
+  },
+  {
+    id: "r90",
+    title: "The Sky Burial",
+    category: "spirit",
+    shortText: "What is released to the open air feeds what will fly...",
+    fullReading:
+      "In the Vajrayana Buddhist tradition of Tibet, the sky burial is the practice of offering the body of the deceased to the vultures — the sky, the air, the great cycle of return. It is not morbid. It is an act of profound generosity: the understanding that what we have held must eventually be released, and that the releasing itself has a sacred ecology. The spirit reading brings this medicine to something you have been holding past its time — a grief, a grievance, a version of yourself, a story about who you are that once protected you but no longer fits. The vultures in this reading are not fearsome. They are the mechanism by which what is complete becomes the material for what is beginning. Open your hands.",
+    colors: ["#374151", "#60a5fa", "#fbbf24"],
+  },
+  {
+    id: "r91",
+    title: "The Inner Council",
+    category: "spirit",
+    shortText: "All the voices within you have something to contribute...",
+    fullReading:
+      "In certain shamanic and Jungian traditions, the inner council is the gathering of all the sub-personalities, the inner figures, the aspects of the self that each carry a partial but genuine truth. The warrior. The child. The sage. The trickster. The lover. None of them is the whole of you. None of them should govern alone. The spirit reading shows your inner council in a state of imbalance — one voice dominating the others, drowning out the perspectives that currently hold the information you need most. Which aspect of yourself have you not been listening to? It is often the quietest, the least socially acceptable, the one that has learned to wait. Give it the floor. It has been holding something that the whole council needs to hear.",
+    colors: ["#7c3aed", "#059669", "#fbbf24"],
+  },
+  {
+    id: "r92",
+    title: "The Living Altar",
+    category: "spirit",
+    shortText:
+      "What you return to again and again is sacred — whether or not you have named it so...",
+    fullReading:
+      "An altar is not a piece of furniture. It is a location of intentional relationship with the sacred — a place where the material and the spiritual meet, marked and maintained by repeated attention. The spirit reading asks you to identify the altars you are already tending, whether or not you call them that. The corner of the desk where a few meaningful objects have gathered. The route you walk when you need to think. The practice you return to when nothing else works. These are your altars. They are already sacred by virtue of your return to them. The reading asks you to bring that sacredness into full consciousness — to tend these places with the awareness that you are, in tending them, in relationship with something larger than the objects themselves.",
+    colors: ["#dc2626", "#d97706", "#7c3aed"],
+  },
+  {
+    id: "r93",
+    title: "The Drum Speaks First",
+    category: "spirit",
+    shortText: "Before language, before thought, there was rhythm...",
+    fullReading:
+      "The drum is the oldest instrument and the primary vehicle of shamanic journey in traditions across every continent. Its rhythm — typically around four beats per second — entrains the brain toward the theta state, the border between waking and dreaming where the most fluid access to the deeper self becomes possible. The spirit reading brings the drum's medicine to a situation that has become too cognitive, too managed, too lived in the part of you that speaks and analyzes and decides. Something in you needs to be accessed below language. The drum's invitation is to find your way to the body, to rhythm, to the pre-verbal knowing that has been trying to communicate through feeling rather than words. You know more than you can currently say. The drum will help you hear it.",
+    colors: ["#78350f", "#dc2626", "#1e3a8a"],
+  },
+  {
+    id: "r94",
+    title: "The Spider's Unfinished Web",
+    category: "spirit",
+    shortText:
+      "Grandmother Spider weaves the world and leaves a space for you...",
+    fullReading:
+      "In many Native American traditions, Grandmother Spider — Spider Woman — is the creator deity who wove the world into existence and who continues to hold it together through her web of connection. The spider does not complete the web and step away. The web is always being extended, repaired, and re-tensioned in response to what the wind and the caught things do to its structure. The spirit reading brings Spider Woman's medicine to the creative and relational work you are doing. The web is not finished. It is never finished. That is not a failure of execution — it is the nature of living work. The strands you have laid are solid. The connection points are holding. The space at the edge where the web is still being extended is not emptiness. It is possibility.",
+    colors: ["#0f172a", "#d97706", "#7c3aed"],
+  },
 ];
 
 export function getReadingByColor(colorIndex: number): Reading {
