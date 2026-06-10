@@ -28,13 +28,15 @@ export function ColorPicker({ selected, onSelect }: ColorPickerProps) {
             onClick={() => onSelect(color.id)}
             className={cn(
               "relative w-14 h-14 rounded-full cursor-pointer transition-all duration-300",
-              selected === color.id && "ring-2 ring-white ring-offset-2 ring-offset-transparent"
+              selected === color.id &&
+                "ring-2 ring-white ring-offset-2 ring-offset-transparent",
             )}
             style={{
               backgroundColor: color.hex,
-              boxShadow: selected === color.id
-                ? `0 0 25px ${color.glow}, 0 0 50px ${color.glow}`
-                : `0 0 10px ${color.glow}40`,
+              boxShadow:
+                selected === color.id
+                  ? `0 0 25px ${color.glow}, 0 0 50px ${color.glow}`
+                  : `0 0 10px ${color.glow}40`,
             }}
             title={color.name}
           >
@@ -55,9 +57,9 @@ export function ColorPicker({ selected, onSelect }: ColorPickerProps) {
         <motion.p
           initial={{ opacity: 0, y: 5 }}
           animate={{ opacity: 1, y: 0 }}
-          className="text-center text-sm font-serif text-fuchsia-300"
+          className="text-center text-sm font-serif text-fuchsia-300/70 italic"
         >
-          ✦ {mysticalColors.find(c => c.id === selected)?.name} ✦
+          ✦ The spirits have received your choice ✦
         </motion.p>
       )}
     </div>

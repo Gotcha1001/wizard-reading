@@ -49,3 +49,18 @@ export const getUserHistory = query({
       .take(50);
   },
 });
+
+export const deleteSession = mutation({
+  args: { id: v.id("sessions") },
+  handler: async (ctx, { id }) => {
+    const identity = await ctx.auth.getUserIdentity();
+    if (!identity) throw new Error("Not authenticated");
+
+    const session = await ctx.db.get(id);
+    if (!session || session.userId !== identity.subject) {
+      throw new Error("Not authorized");
+    }
+
+    await ctx.db.delete(id);
+  },
+});
